@@ -1,0 +1,4 @@
+repository "TuringCup2022_v2@turingcup2022@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
